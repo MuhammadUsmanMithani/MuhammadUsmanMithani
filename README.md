@@ -28,4 +28,4 @@ More about me on Github:
 
 #### There We Go
 ![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox)
-<img align="center" alt="iammithan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact" />
+<img align="center" alt="iammithan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox" />
