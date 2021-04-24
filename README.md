@@ -5,7 +5,7 @@
 #### Discord:iammithani#0235
 #### Age: 14
 #### Hobbies: Gaming, Coding
-#### Favourite games: Minecraft, Roblox, CSGO and more
+#### Favourite (Most Played) games: Minecraft, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
 #### Achievments: Learnt coding at the age of 12, and am a moderator of a (kinda) big Minecraft server (with its Discord), IP: [mc.cyberland.fun](https://cyberland.fun/) and [Discord](https://discord.cyberland.fun)
 
 <img height="32" width="32" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" />
