@@ -1,8 +1,8 @@
 # Hello There!
 ### I am Muhammad Usman Mithani, mostly known as iammithani
 ### Info about me:
-#### Email:muhammadusmanmithani@gmail.com
-#### Discord:iammithani#0235
+#### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
+#### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
 #### Age: 14
 #### Hobbies: Gaming, Coding
 #### Favourite (Most Played) games: Minecraft, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
