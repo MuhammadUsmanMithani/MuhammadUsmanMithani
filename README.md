@@ -22,10 +22,15 @@
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
 <br />
-More about me on Github:
 
 ---
 
-#### There We Go
-![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox)
-<img align="center" alt="iammithan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox" />
+#### My Github Stats
+![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox)<img align="center" alt="iammithan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox" />
+
+---
+#### Contact Me
+
+[![Twitter](https://img.shields.io/badge/@iammithani1-Twitter?logo=Twitter&color=1DA1F2&logoColor=white&style=for-the-badge)](https://twitter.com/iammithani1)
+[![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=B656FA&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
+[![Email](https://img.shields.io/badge/muhammadusmanmithani@gmail.com-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani@gmail.com)
