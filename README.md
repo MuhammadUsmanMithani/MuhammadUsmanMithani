@@ -26,7 +26,7 @@
 ---
 
 #### My Github Stats
-![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox)<img align="center" alt="iammithan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox" />
+![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox)[MuhammadUsmanMithani's Most usd Languages]("https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox")
 
 ---
 #### Contact Me
