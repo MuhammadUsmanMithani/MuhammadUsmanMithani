@@ -32,5 +32,5 @@
 #### Contact Me
 
 [![Twitter](https://img.shields.io/badge/@iammithani1-Twitter?logo=Twitter&color=1DA1F2&logoColor=white&style=for-the-badge)](https://twitter.com/iammithani1)
-[![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=B656FA&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
+[![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
 [![Email](https://img.shields.io/badge/muhammadusmanmithani@gmail.com-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani@gmail.com)
