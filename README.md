@@ -4,7 +4,7 @@
 #### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
 #### Hobbies: Gaming, Coding
-#### Favourite (Most Played) games: Minecraft, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
+#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
 #### Achievments: Learnt coding at the age of 12, and am a moderator of a (kinda) big Minecraft server (with its Discord), IP: [mc.cyberland.fun](https://cyberland.fun/) and its Discord Server invite is [this](https://discord.cyberland.fun) 
 
 <img height="64" width="64" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" /> <img height="64" width="64" src="https://cyberland.fun/inc/images/logo.png" />
