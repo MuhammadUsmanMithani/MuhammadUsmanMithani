@@ -1,5 +1,5 @@
 # Hello There!
-### I am Muhammad Usman Mithani, mostly known as iammithani <img src="https://i.imgur.com/7FSrDlx.png" width="64px" alt="Logo">
+### I am Muhammad Usman Mithani, mostly known as iammithani <img src="https://imgur.com/sbuq9Vr.png" width="64px" alt="Logo">
 ### Info about me:
 #### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
