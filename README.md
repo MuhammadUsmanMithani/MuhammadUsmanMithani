@@ -5,7 +5,7 @@
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
 #### Hobbies: Gaming, Coding
 #### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
-#### Achievments: Learnt coding at the age of 12, and am a moderator of a (kinda) big Minecraft server (with its Discord), IP: [mc.cyberland.fun](https://cyberland.fun/) and its Discord Server invite is [this](https://discord.cyberland.fun). I also code **[Meembot](https://dsc.gg/meem)** which is a powerful, but lightweight multi-purpose Discord Bot.
+#### Achievments: Learnt coding at the age of 12, and am a moderator of a couple Discord Servers including [https://dsc.gg/cyberland](https://dsc.gg/cyberland). I also code **[Meembot](https://dsc.gg/meem)** which is a powerful, but lightweight multi-purpose Discord Bot.
 
 [![Discord Bots](https://top.gg/api/widget/775653556237762580.svg)](https://top.gg/bot/775653556237762580)
 
