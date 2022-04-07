@@ -5,11 +5,9 @@
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
 #### Hobbies: Gaming, Coding
 #### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
-#### Achievments: Learnt coding at the age of 12, and am a moderator of a couple Discord Servers including [https://dsc.gg/cyberland](https://dsc.gg/cyberland). I also code **[Meembot](https://dsc.gg/meem)** which is a powerful, but lightweight multi-purpose Discord Bot.
+#### Achievments: Learnt coding at the age of 12, and am experienced in Javascript. I can code things ranging from websites to even Discord bots!
 
-[![Discord Bots](https://top.gg/api/widget/775653556237762580.svg)](https://top.gg/bot/775653556237762580)
-
-<img height="64" width="64" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" /> <img height="64" width="64" src="https://cyberland.fun/inc/images/logo.png" />
+<img height="64" width="64" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" /> <img height="64" width="64" src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png"> <img height="64" width="64" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png">
 
 ### Favourite Languages and Tools used for coding:
 
