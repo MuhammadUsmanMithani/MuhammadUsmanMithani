@@ -3,6 +3,10 @@
 ### Info about me:
 #### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
+#### Steam: [iammithani](https://steamcommunity.com/id/iammithani/)
+
+---
+
 #### Hobbies: Gaming, Coding
 #### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and especially CSGO
 #### Achievments: Learnt coding at the age of 12, and am experienced in Javascript. I can code things ranging from websites to even Discord bots!
