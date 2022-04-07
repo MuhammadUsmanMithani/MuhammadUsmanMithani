@@ -4,7 +4,7 @@
 #### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
 #### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
 #### Hobbies: Gaming, Coding
-#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and sometimes CSGO
+#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and especially CSGO
 #### Achievments: Learnt coding at the age of 12, and am experienced in Javascript. I can code things ranging from websites to even Discord bots!
 
 <img height="64" width="64" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" /> <img height="64" width="64" src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png"> <img height="64" width="64" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png">
