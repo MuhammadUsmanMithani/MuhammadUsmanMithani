@@ -37,3 +37,4 @@
 
 [![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
 [![Email](https://img.shields.io/badge/muhammadusmanmithani@gmail.com-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani@gmail.com)
+[![YouTube](https://img.shields.io/badge/MythTech-Youtube?logo=youtube&color=7a0307&logoColor=f10f1a&style=for-the-badge)](https://youtube.com/channel/UCepRTWq6UZ5aN0FkdiYs_Nw)
