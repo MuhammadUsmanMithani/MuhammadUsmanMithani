@@ -7,13 +7,13 @@
 
 ---
 
-#### Hobbies: Gaming, Coding
-#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, PC Building Simulator and especially CSGO
+#### Hobbies: Gaming, Coding, Graphic Design and Video Editing
+#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, COD MW2, PC Building Simulator, CSGO and Fortnite
 #### Achievments: Learnt coding at the age of 12, and am experienced in Javascript. I can code things ranging from websites to even Discord bots!
 
 <img height="64" width="64" src="https://api.mcsrvstat.us/icon/ehlolniceipyeahimdumb" /> <img height="64" width="64" src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png"> <img height="64" width="64" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png">
 
-### Favourite Languages and Tools used for coding:
+### Favourite Languages and Tools:
 
 <div style="display: flex;">
 <img alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,6 +24,9 @@
 <img alt="Electron.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="Discord.JS" width="64px" src="https://koya.gg/assets/img/discordjs-logo.png" />
+<img alt="Blackmagic DaVinci Resolve.JS" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
+<img alt="Adobe Photoshop" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+<img alt="Adobe Illustrator" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
 </div>
 <br />
 
