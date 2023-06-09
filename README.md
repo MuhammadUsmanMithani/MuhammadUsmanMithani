@@ -39,5 +39,5 @@
 #### Contact Me
 
 [![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
-[![Email](https://img.shields.io/badge/muhammadusmanmithani@gmail.com-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani@gmail.com)
+[![Email](https://img.shields.io/badge/Click for Business Email-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani2@gmail.com)
 [![YouTube](https://img.shields.io/badge/MythTech-YouTube?logo=youtube&color=7A0307&logoColor=F10F1A&style=for-the-badge)](https://youtube.com/channel/UCepRTWq6UZ5aN0FkdiYs_Nw)
