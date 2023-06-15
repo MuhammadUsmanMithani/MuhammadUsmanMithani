@@ -2,7 +2,7 @@
 ### I am Muhammad Usman Mithani, mostly known as iammithani <br><br><img src="https://imgur.com/sbuq9Vr.png" width="128px" height="128px" alt="Logo" />
 ### Info about me:
 #### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
-#### Discord: [iammithani#0235](https://dsc.bio/iammithani/)
+#### Discord: [iammithani](https://discord.com/users/776255556150362172)
 #### Steam: [iammithani](https://steamcommunity.com/id/iammithani/)
 
 ---
@@ -38,6 +38,5 @@
 ---
 #### Contact Me
 
-[![Discord](https://img.shields.io/badge/iammithani%230235-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://dsc.bio/iammithani/)
+[![Discord](https://img.shields.io/badge/iammithani-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://discord.com/users/776255556150362172)
 [![Email](https://img.shields.io/badge/Click_For_Business_Email-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani2@gmail.com)
-[![YouTube](https://img.shields.io/badge/MythTech-YouTube?logo=youtube&color=7A0307&logoColor=F10F1A&style=for-the-badge)](https://youtube.com/channel/UCepRTWq6UZ5aN0FkdiYs_Nw)
