@@ -1,15 +1,5 @@
 # Hello There!
 ### I am Muhammad Usman Mithani, mostly known as iammithani <br><br><img src="https://imgur.com/sbuq9Vr.png" width="128px" height="128px" alt="Logo" />
-### Info about me:
-#### Email: [muhammadusmanmithani@gmail.com](mailto:muhammadusmanmithani@gmail.com)
-#### Discord: [iammithani](https://discord.com/users/776255556150362172)
-#### Steam: [iammithani](https://steamcommunity.com/id/iammithani/)
-
----
-
-#### Hobbies: Gaming, Coding, Graphic Design and Video Editing
-#### Favourite (Most Played) games: Minecraft, Muck, Karlson, Roblox, COD BO2, COD MW2, PC Building Simulator, CSGO and Fortnite
-#### Achievments: Learnt coding at the age of 12, and am experienced in Javascript. I can code things ranging from websites to even Discord bots!
 
 ---
 
@@ -23,7 +13,6 @@
 <img style="margin: 2px" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="Electron.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
 <img alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Discord.JS" width="64px" src="https://koya.gg/assets/img/discordjs-logo.png" />
 <img alt="Blackmagic DaVinci Resolve.JS" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
 <img alt="Adobe Photoshop" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img alt="Adobe Illustrator" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
