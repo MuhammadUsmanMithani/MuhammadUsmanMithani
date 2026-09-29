@@ -1,33 +1,39 @@
-# Hello There!
-### I am Muhammad Usman Mithani, mostly known as iammithani <br><br><img src="https://imgur.com/sbuq9Vr.png" width="128px" height="128px" alt="Logo" />
+```verilog
+module mithani #(parameter CHAI_MIN = 2)(   // doodh patti, cups/day
+input  wire classical,
+    output reg  my_profile
+);  // CpE + EE @ UT Arlington --- Headed towards chip design & EUV lithography
+```
 
----
+**I don't just want to work on a computer. I want to work inside one.**
 
-### Favourite Languages and Tools:
+### 🔬 Now
+- Undergraduate research assistant, **Smart Infrastructure and Testing Lab**, UTA
+- Porting legacy C++ ground-penetrating radar software to Python for **TxDOT**
+- Built the lab's equipment monitoring network on **Raspberry Pi** *(private, lab-owned)*
+- Upgraded lab tooling with custom designed circuitry
+- Writing SystemVerilog for an **Intel/Altera MAX 10 FPGA**
 
-<div style="display: flex;">
-<img alt="Visual Studio Code" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img style="margin: 2px" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin: 2px" alt="CSS3" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin: 2px" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="Electron.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-<img alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Blackmagic DaVinci Resolve.JS" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />
-<img alt="Adobe Photoshop" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
-<img alt="Adobe Illustrator" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
-</div>
-<br />
+### 🛠️ Built
+- **Meembot**: LLM integrated verified Discord bot, 500,000+ members across all servers *(source private)*
+- **Compyouters.org**: interactive hardware learning site
+- **CNN object classifier**: transfer learning, best coding work of 32 teams
+- **AI College Advisor**: Personalized AI schedule builder, HackUTA
 
----
+### 🧰 Toolbox
 
-#### My Github Stats
-[//]: # "![MuhammadUsmanMithani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanMithani&show_icons=true&theme=gruvbox&count_private=true)" 
+**Languages:** `Python` `C` `C++` `SystemVerilog/Verilog` `JavaScript` `MATLAB`\
+**Hardware:** `Intel MAX 10 FPGA` `Quartus Prime` `Raspberry Pi` `Arduino` `oscilloscope & bench`\
+**Systems:** `Linux` `Bash` `systemd` `Docker` `Git`\
+**Data & ML:** `TensorFlow` `Flask` `REST` `SQLite` `MySQL`
 
-![MuhammadUsmanMithani's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanMithani&langs_count=8&layout=compact&theme=gruvbox)
+### 📫 Reach me
 
----
-#### Contact Me
+[![Website](https://img.shields.io/badge/Website-iammithani.is--a.dev-1f2937?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuOCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOS41Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0LjIiIHJ5PSI5LjUiLz48cGF0aCBkPSJNMi41IDEyaDE5TTQgN2gxNk00IDE3aDE2Ii8+PC9zdmc+Cg==)](https://iammithani.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iammithani-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PGNpcmNsZSBjeD0iNSIgY3k9IjQuNiIgcj0iMi4zIi8+PHJlY3QgeD0iMyIgeT0iOC4yIiB3aWR0aD0iNCIgaGVpZ2h0PSIxMyIgcng9IjAuNCIvPjxwYXRoIGQ9Ik05IDguMmgzLjh2MS45Yy43LTEuMyAyLjItMi4yIDQtMi4yIDMgMCA0LjIgMS45IDQuMiA1LjF2OC4yaC00di03LjRjMC0xLjYtLjYtMi42LTItMi42cy0yLjEgMS4xLTIuMSAyLjZ2Ny40SDl6Ii8+PC9zdmc+Cg==)](https://linkedin.com/in/iammithani)
 
-[![Discord](https://img.shields.io/badge/iammithani-Discord?logo=Discord&color=9491F7&logoColor=323232&style=for-the-badge)](https://discord.com/users/776255556150362172)
-[![Email](https://img.shields.io/badge/Click_For_Business_Email-Email?logo=gmail&color=DDDADA&logoColor=9C0404&style=for-the-badge)](mailto:muhammadusmanmithani2@gmail.com)
+Open to **Summer 2027 internships**: semiconductors, instrumentation, ML.
+
+```verilog
+endmodule  // tape-out: May 2029
+```
