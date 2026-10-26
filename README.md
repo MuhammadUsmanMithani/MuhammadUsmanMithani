@@ -9,7 +9,7 @@ input  wire classical,
 
 ### Currently:
 - Undergraduate Research Assistant, **Smart Infrastructure and Testing Lab (SITL)**, CpE + EE @ UTA
-- Porting legacy C++ ground-penetrating radar software to Python for **TxDOT**
+- Porting legacy C++ ground-penetrating radar software to Python for **Texas Department of Transportation**
 - Built the lab's equipment monitoring network on **Raspberry Pi** *(private, lab-owned)*
 - Upgraded lab tooling with custom designed circuitry
 - Writing SystemVerilog for an **Intel/Altera MAX 10 FPGA**
